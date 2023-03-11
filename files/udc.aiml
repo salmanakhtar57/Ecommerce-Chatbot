@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>HI, there</pattern>
+    <template>Hi, how I can help?</template>
+  </category>
+
+<category><pattern>Hi, I am new here</pattern><template><srai>HI, THERE</srai></template></category>
+
+
+<category><pattern>I am new to this site</pattern><template><srai>HI, THERE</srai></template></category>
+
+<category>
+    <pattern>Can you tell me about the products available on this website </pattern>
+    <template>As an e-commerce store, this website offers you a wide range of products including clothing, electronics, and other similar products </template>
+</category>
+<category>
+    <pattern>Can you recommend some products based on my interests </pattern>
+    <template>Sure Can you tell me a bit more about your interests or what you are looking for</template>
+</category>
+<category>
+    <pattern>I am looking for TShirts and Perfumes </pattern>
+    <template>Go to the search bar in the home page and write T-Shirts or Perfumes and you will find plenty of options Let me know if you still needs some help</template>
+</category>
+
+<category><pattern>I am searching for 3piece suits</pattern><template><srai>I AM LOOKING FOR TSHIRTS AND PERFUMES </srai></template></category>
+<category><pattern>Aslo shalwar and kamiz</pattern><template><srai>I AM LOOKING FOR TSHIRTS AND PERFUMES </srai></template></category>
+
+<category>
+    <pattern>Thanks a lot </pattern>
+    <template>You are welcome, let me know if you need any help </template>
+</category>
+
+<category><pattern>Thank You so much</pattern><template><srai>THANKS A LOT </srai></template></category>
+
+<category>
+    <pattern>Can you tell me about the payment methods available on your website </pattern>
+    <template>We accept credit/debit cards, PayPal, You can choose your preferred payment method after selecting your desired product </template>
+</category>
+<category>
+    <pattern>How can I check the status of my payment </pattern>
+    <template>You can check the status of your payment in your account dashboard </template>
+</category>
+<category>
+    <pattern>You can check the status of your payment in your account dashboard </pattern>
+    <template>Yes, you can add multiple items to your cart at once  Simply click on the "Add to Cart" button for each item you want to purchase </template>
+</category>
+<category>
+    <pattern>Can I create a Wishlist of products on your website </pattern>
+    <template>Yes, you can create a Wishlist by adding items to your "Favorites" list in your account dashboard </template>
+</category>
+
+<category><pattern>Can I add items to my favourite list</pattern><template><srai>CAN I CREATE A WISHLIST OF PRODUCTS ON YOUR WEBSITE </srai></template></category>
+
+<category>
+    <pattern>Thanks for the help  I also want to know, do you offer refunds for products that I'm not satisfied with</pattern>
+    <template>
+
+Glad to be helpful. 
+Yes, we do  We want our customers to be happy with their purchases, so we offer a full refund for products that you are not satisfied with within 30 days of purchase </template>
+</category>
+<category>
+    <pattern>How long does it take to receive a refund for a returned item </pattern>
+    <template>Once we receive and process your returned item, it can take up to 4 business days for the refund to appear on your original payment method </template>
+</category>
+<category>
+    <pattern>Can I exchange a product instead of receiving a refund </pattern>
+    <template>Yes, you can exchange a product, either of the same amount or otherwise pay the extra money to if needed </template>
+</category>
+<category>
+    <pattern>Okay, thanks for the information </pattern>
+    <template>You are welcome, let me know if you want any help </template>
+</category>
+<category>
+    <pattern>Do you offer international shipping </pattern>
+    <template>Yes, we do offer international shipping  Shipping rates and times vary depending on the destination </template>
+</category>
+
+<category><pattern>Is international shipping allowed from your website</pattern><template><srai>DO YOU OFFER INTERNATIONAL SHIPPING </srai></template></category>
+
+
+<category><pattern>How you offer international shipping</pattern><template><srai>DO YOU OFFER INTERNATIONAL SHIPPING </srai></template></category>
+
+<category>
+    <pattern>How long will it take to receive my order </pattern>
+    <template>Shipping times vary depending on the destination and shipping method selected </template>
+</category>
+<category>
+    <pattern>Okay, also tell me how is your store better than other retailers</pattern>
+    <template>We take pride in offering our customers high-quality products at competitive prices  We work directly with manufacturers and suppliers to ensure that we are getting the best possible deals on the products we offer, which allows us to pass those savings along to our customers Edit bot response</template>
+</category>
+<category>
+    <pattern>Your website is looking good  I will came back if I like your products</pattern>
+    <template>This is great. You are always welcome.</template>
+</category>
+<category>
+    <pattern>Can you provide more information about your shipping rates and times </pattern>
+    <template>Shipping rates and times vary depending on the destination. Please refer to our shipping policy or contact us for more information.</template>
+</category>
+<category>
+    <pattern>Do you offer discounts</pattern>
+    <template>Yes we do offer discounts. The things you shopped the greater chances that you get some discounts.</template>
+</category>
+<category>
+    <pattern>Okay, its great to know  I did some shopping here and will return to this site whenever I feel necessary  Thanks </pattern>
+    <template>Thanks for shopping here. You are always welcome.</template>
+</category>
+<category>
+    <pattern>If you have anything related to bags or jeweler</pattern>
+    <template>Most of our stuff is related to clothing, but we also had some other stuff like perfumes, shoes and bags.</template>
+</category>
+<category>
+    <pattern>Does this store has special winter collection</pattern>
+    <template>Yes. we bring special collection for winter season everyday. What type of clothes you are looking for</template>
+</category>
+
+<category><pattern>Any availability for winter collection here</pattern><template><srai>DOES THIS STORE HAS SPECIAL WINTER COLLECTION</srai></template></category>
+
+<category>
+    <pattern>I may buy this winter Thanks for you time, it means a lot</pattern>
+    <template>Great to know, always feel free to ask anything</template>
+</category>
+<category>
+    <pattern>Okay good buy</pattern>
+    <template>Good bye, take care of you.</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
